@@ -1,0 +1,9 @@
+# Node
+/elevAIte-hackathon-frontend/node_modules
+/elevAIte-hackathon-frontend/.next
+
+# Python
+/elevAIte-hackathon-backend/__pycache__/
+/elevAIte-hackathon-backend/.venv/
+
+.env

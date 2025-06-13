@@ -1,0 +1,6 @@
+[submodule "elevAIte-hackathon-frontend"]
+	path = elevAIte-hackathon-frontend
+	url = https://github.com/elsamrafisptr/elevAIte-hackathon-frontend.git
+[submodule "elevAIte-hackathon-backend"]
+	path = elevAIte-hackathon-backend
+	url = https://github.com/elsamrafisptr/elevAIte-hackathon-backend.git
